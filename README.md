@@ -1,6 +1,11 @@
 # potholepal
 Pothole Detecting Robot - UofTHacks VI
 
+<p align="center">
+  </br>
+  <img src="https://i.imgur.com/AtI0mDD.jpg"/>
+</p>
+
 This repo is meant to enable the Pothole Pal proof of concept (POC) to detect changes in elevation on the road using an ultrasonic sensor thereby detecting potholes. This POC is to demonstrate the ability for a car or autonomous vehicle to drive over a surface and detect potholes in the real world. 
 
 Table of Contents
@@ -26,7 +31,6 @@ The goal of the Pothole Pal is to help detect potholes and immediately notify th
 
 We integrated an arduino on a RedBot Inventors Kit car. By attaching an ultrasound sensor module to the arduino and mounting it to the front of the vehicle, we are able to detect changes in elevation AKA detect potholes. After the detection, the geotag of the pothole and an image of the pothole is sent to a mosquito broker, which then directs the data to an iOS app which a government worker can view. They can then use that information to go and fix the pothole. 
 
-https://i.imgur.com/AtI0mDD.jpg
 https://i.imgur.com/Lv1A5xf.png
 https://i.imgur.com/4DD3Xuc.png
 
