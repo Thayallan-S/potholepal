@@ -33,10 +33,10 @@ We integrated an arduino on a RedBot Inventors Kit car. By attaching an ultrasou
 <p align="center">
   </br>
   <div>
-  <div style="float:left, width:50%, padding:5px">
+  <div style="float: left, width: 50%, padding: 5px">
     <img src="https://i.imgur.com/Lv1A5xf.png"/>
   </div>
-  <div style="float:left, width:50%, padding:5px">
+  <div style="float: left, width: 50%, padding: 5px">
     <img src="https://i.imgur.com/4DD3Xuc.png"/>
   </div>
 </div>
