@@ -30,9 +30,11 @@ The goal of the Pothole Pal is to help detect potholes and immediately notify th
 3.Implementation
 
 We integrated an arduino on a RedBot Inventors Kit car. By attaching an ultrasound sensor module to the arduino and mounting it to the front of the vehicle, we are able to detect changes in elevation AKA detect potholes. After the detection, the geotag of the pothole and an image of the pothole is sent to a mosquito broker, which then directs the data to an iOS app which a government worker can view. They can then use that information to go and fix the pothole. 
-
-https://i.imgur.com/Lv1A5xf.png
-https://i.imgur.com/4DD3Xuc.png
+<p align="center">
+  </br>
+  <img src="https://i.imgur.com/Lv1A5xf.png"/>
+  <img src="https://i.imgur.com/4DD3Xuc.png"/>
+</p>
 
 4.Future Prospects
 
